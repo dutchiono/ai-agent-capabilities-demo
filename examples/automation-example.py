@@ -1,0 +1,1 @@
+$path:tmp/automation-example.py
